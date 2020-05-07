@@ -2,6 +2,9 @@
 # Local .terraform directories
 **/.terraform/*
 
+# udemy demos
+**/udemy/*
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
